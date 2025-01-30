@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@distube/ytdl-core": "^4.16.0",
     "@ffmpeg/ffmpeg": "^0.12.10",
     "@ffmpeg/util": "^0.12.1",
     "axios": "^1.6.7",
@@ -26,8 +27,7 @@
     "react-icons": "^5.0.1",
     "sharp": "^0.33.2",
     "uuid": "^9.0.1",
-    "youtube-sr": "^4.3.10",
-    "ytdl-core": "^4.11.5"
+    "youtube-sr": "^4.3.10"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
